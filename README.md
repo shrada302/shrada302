@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Aspiring Full Stack Developer  <br>🎨 Blending creativity with code  <br>🌱 Currently learning Frontend, Backend & Design  <br>📚 I enjoy building websites that feel alive 
+💻 Aspiring Frontend Developer  <br>🎨 Blending creativity with code  <br>🌱 Currently learning Frontend, Backend & Design  <br>📚 I enjoy building websites that feel alive 
 
 
 ## 🌐 Socials:
